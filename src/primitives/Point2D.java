@@ -1,8 +1,6 @@
 package primitives;
 
 /**
- * * @author Baruch Gehler 866256 		gehlerb@gmail.com
- * 		   Baruch Bichman 200844843		baruch913@gmail.com
  *This Class represents a point in 2D
  */
 public class Point2D {

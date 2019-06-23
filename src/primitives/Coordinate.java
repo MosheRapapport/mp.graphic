@@ -2,8 +2,6 @@ package primitives;
 
 /**
  *
- * @author Baruch Gehler 866256 		gehlerb@gmail.com
- * 		   Baruch Bichman 200844843		baruch913@gmail.com
  * This class represents a coordinate
  *
  */

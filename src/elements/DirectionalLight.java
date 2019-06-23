@@ -7,7 +7,7 @@ import primitives.Vector;
 /**
  * This class represents a directional light
  *
- * @author Baruch
+ *
  *
  */
 

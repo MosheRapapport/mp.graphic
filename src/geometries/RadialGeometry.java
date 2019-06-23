@@ -14,9 +14,7 @@ import primitives.Vector;
  * This class represents geometrics groups who has a radius extending Geometry
  * Class
  *
- * @author Baruch Gehler 866256 gehlerb@gmail.com Baruch Bichman 200844843
- *         baruch913@gmail.com
- */
+ *  */
 public abstract class RadialGeometry extends Geometry {
 
     protected double radius;

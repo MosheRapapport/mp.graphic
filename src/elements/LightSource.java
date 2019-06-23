@@ -5,7 +5,7 @@ import primitives.*;
 /**
  * This class is an interface for the different sources of the lights
  *
- * @author Baruch
+ *
  *
  */
 public interface LightSource {

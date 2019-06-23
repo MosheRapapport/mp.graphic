@@ -11,7 +11,6 @@ import primitives.Vector;
 
 /**
  *
- * @author Baruch The Class Geometries represents a List of Geometry
  */
 public class Geometries extends Geometry {
 

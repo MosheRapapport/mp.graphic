@@ -3,7 +3,6 @@ package primitives;
 /**
  * This class represents the reflectance of the light
  *
- * @author Baruch
  *
  */
 public class Material {

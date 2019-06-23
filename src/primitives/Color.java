@@ -4,7 +4,6 @@ package primitives;
  * This class represent a color who is represented by 3 integers r for the red g
  * for the green b for the blue
  *
- * @author Baruch
  */
 public class Color {
 

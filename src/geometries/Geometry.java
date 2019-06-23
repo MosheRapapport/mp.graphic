@@ -7,8 +7,6 @@ import primitives.*;
 
 /**
  *
- * @author Baruch Gehler 866256 gehlerb@gmail.com Baruch Bichman 200844843
- *         baruch913@gmail.com This abstract class represents geometrics groups
  *
  */
 public abstract class Geometry {

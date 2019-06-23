@@ -14,8 +14,6 @@ import primitives.Vector;
 /**
  * This class represents a Plane
  *
- * @author Baruch Gehler 866256 gehlerb@gmail.com Baruch Bichman 200844843
- *         baruch913@gmail.com
  *
  */
 public class Plane extends Geometry {

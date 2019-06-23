@@ -7,7 +7,7 @@ import primitives.Vector;
 /**
  * This class represents a Spot light extending a Point light
  *
- * @author Baruch
+ *
  *
  */
 public class SpotLight extends PointLight {

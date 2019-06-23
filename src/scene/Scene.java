@@ -1,11 +1,11 @@
 package scene;
 
-import java.awt.*;
 
 import elements.AmbientLight;
 import elements.Camera;
 import geometries.Geometries;
 import geometries.Geometry;
+import primitives.Color;
 import elements.*;
 
 import java.util.ArrayList;
@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * The Class represents a scene
  *
- * @author Baruch
  *
  */
 public class Scene {

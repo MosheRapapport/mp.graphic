@@ -5,7 +5,7 @@ import primitives.Color;
 /**
  * This class represents a Light
  *
- * @author Baruch
+ *
  *
  */
 public abstract class Light {

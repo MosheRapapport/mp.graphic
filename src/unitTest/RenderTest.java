@@ -21,7 +21,7 @@ public class RenderTest {
 
         Scene scene = new Scene("Test");
 
-        scene.setCamera(new Camera(new Point3D(0, 0, 10), new Vector(1.0, 0.0, 0.0), new Vector(0.0, 0.0, -1.0)));
+        scene.setCamera(new Camera(new Point3D(0, 0, 10), new Vector(1.0, 0.0, 0.0), new Vector(0.0, 0.0, -1.0),0,0));
 
         scene.setAmbientLight(new AmbientLight(new Color(80, 0, 0), 0.5));
 
@@ -44,7 +44,7 @@ public class RenderTest {
 
         Render render = new Render(imageWriter, scene);
 
-        render.renderImage();
+        //render.renderImage();
         render.printGrid(50);
         render.writeToImage();
 

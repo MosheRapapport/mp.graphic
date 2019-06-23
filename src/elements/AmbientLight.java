@@ -6,7 +6,7 @@ import primitives.Color;
  * This Class represents the ambient light of the scene The values are the
  * colors of the light and the factor of the intensity
  *
- * @author Baruch
+ *
  */
 public class AmbientLight extends Light {
 
