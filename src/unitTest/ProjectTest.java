@@ -25,7 +25,7 @@ public class ProjectTest {
 
     @Test
     public void ProjectTest1() throws IOException, InterruptedException {
-        Scene scene = new Scene("ProjectTest");
+        Scene scene = new Scene("ProjectTest01");
         scene.setCamera(new Camera(new Point3D(400, 0, 50), new Vector(0, 0, 1), new Vector(-1, 0, 0), 15, 6000));
         scene.setAmbientLight(new AmbientLight(new Color(255, 255, 255), 0));
         scene.setDistance(400);
@@ -65,50 +65,6 @@ public class ProjectTest {
 
 
 
-    @Test
-    public void ProjectTest2() throws IOException, InterruptedException {
-        Scene scene = new Scene("ProjectTest2");
-        scene.setCamera(new Camera(new Point3D(400, 0, 50), new Vector(0, 0, 1), new Vector(-1, 0, 0), 15, 600));
-        scene.setAmbientLight(new AmbientLight(new Color(255, 255, 255), 0));
-        scene.setDistance(400);
-
-        Plane plane1 = new Plane(new Point3D(0, 0, -500), new Vector(0, 0, 1), new Color(0, 0, 0),
-                new Material(1, 1, 20, 0.8, 0));
-
-        scene.addGeometry(plane1);
-        for (int i = 0; i < 12; i++) {
-            scene.addGeometry(new Sphere(40, new Point3D(-i * 100, -200 + i * 100, 40-150), new Color(20, 40, 0),
-                    new Material(1, 1, 20, 0, 0.6)));
-            scene.addGeometry(new Sphere(20, new Point3D(-i * 100, -200 + i * 100, 40-150), new Color(0, 40, 90),
-                    new Material(1, 1, 20, 0, 0)));
-            scene.addGeometry(new Sphere(30, new Point3D(-i * 100, -200 + i * 100, 110-150), new Color(40, 20, 0),
-                    new Material(1, 1, 20, 0, 0.5)));
-            scene.addGeometry(new Sphere(20, new Point3D(-i * 100, -200 + i * 100, 160-150), new Color(20, 0, 40),
-                    new Material(1, 1, 20, 0, 0)));
-            scene.addGeometry(new Sphere(10, new Point3D(-i * 100, -200 + i * 100, 190-150), new Color(0, 20, 40),
-                    new Material(1, 1, 20, 0, 0.2)));
-
-        }
-
-
-        scene.getLights()
-                .add(new PointLight(new Color(170, 170, 170), new Point3D(-100 , -150 , 240), 1, 0,
-                        0.000001));
-
-        scene.getLights()
-                .add(new SpotLight(new Color(200, 200, 200), new Point3D(-700, -150 , 240), 1, 0,
-                        0.000001, new Vector(new Point3D(-300, 200 , 10))));
-
-        ImageWriter imageWriter = new ImageWriter(scene.getName(), 1000, 1000, 1000, 1000);
-        Render render = new Render(imageWriter, scene);
-        render.renderImage();
-        render.writeToImage();
-        File f = new File(scene.getName() + ".jpg");
-
-        Desktop d = Desktop.getDesktop();
-        d.open(f);
-
-    }
 
 
 

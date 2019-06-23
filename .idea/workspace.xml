@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44c26c46-c954-437b-a240-53f99287489a" name="Default Changelist" comment="" />
+    <list default="true" id="44c26c46-c954-437b-a240-53f99287489a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectTest2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unitTest/ProjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unitTest/ProjectTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,20 +16,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/unitTest/RecursiveTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="99" column="110" selection-start-line="99" selection-start-column="110" selection-end-line="99" selection-end-column="110" />
+            <state relative-caret-position="550">
+              <caret line="85" column="83" selection-start-line="85" selection-start-column="83" selection-end-line="85" selection-end-column="83" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#ReflectedLightTest#0;class#RecursiveTest#0" />
-                <element signature="method#CrazyTest#0;class#RecursiveTest#0" />
+                <element signature="method#focusTest2#0;class#RecursiveTest#0" />
                 <element signature="method#focusTest#0;class#RecursiveTest#0" />
                 <element signature="method#focusTest3#0;class#RecursiveTest#0" />
+                <element signature="method#focusTest4#0;class#RecursiveTest#0" />
                 <element signature="method#focusTest6#0;class#RecursiveTest#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjectTest1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/unitTest/ProjectTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-264">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="method#ProjectTest1#0;class#ProjectTest#0" />
+                <element signature="method#RoomTest2#0;class#ProjectTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProjectTest3.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjectTestoo.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjectTestpp.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/elements/Camera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="162" column="43" selection-start-line="162" selection-start-column="43" selection-end-line="162" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -38,7 +87,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mp.graphic" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -57,9 +106,7 @@
         <option value="$PROJECT_DIR$/src/unitTest/RenderTest.java" />
         <option value="$PROJECT_DIR$/src/unitTest/LightingTest.java" />
         <option value="$USER_HOME$/Desktop/ברוכים/raytracer_project-master/src/unitTest/RecursiveTest.java" />
-        <option value="$PROJECT_DIR$/src/unitTest/ProjectTest.java" />
         <option value="$PROJECT_DIR$/src/elements/AmbientLight.java" />
-        <option value="$PROJECT_DIR$/src/elements/Camera.java" />
         <option value="$PROJECT_DIR$/src/elements/DirectionalLight.java" />
         <option value="$PROJECT_DIR$/src/elements/Light.java" />
         <option value="$PROJECT_DIR$/src/elements/LightSource.java" />
@@ -81,7 +128,9 @@
         <option value="$PROJECT_DIR$/src/primitives/Color.java" />
         <option value="$PROJECT_DIR$/src/renderer/Render.java" />
         <option value="$PROJECT_DIR$/src/scene/Scene.java" />
+        <option value="$PROJECT_DIR$/src/unitTest/ProjectTest.java" />
         <option value="$PROJECT_DIR$/src/unitTest/RecursiveTest.java" />
+        <option value="$PROJECT_DIR$/src/elements/Camera.java" />
       </list>
     </option>
   </component>
@@ -97,23 +146,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java.5779.3064.4399" type="b2602c69:ProjectViewProjectNode" />
-              <item name="פרויקט" type="462c0819:PsiDirectoryNode" />
+              <item name="mp.graphic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java.5779.3064.4399" type="b2602c69:ProjectViewProjectNode" />
-              <item name="פרויקט" type="462c0819:PsiDirectoryNode" />
+              <item name="mp.graphic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java.5779.3064.4399" type="b2602c69:ProjectViewProjectNode" />
-              <item name="פרויקט" type="462c0819:PsiDirectoryNode" />
+              <item name="mp.graphic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="elements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java.5779.3064.4399" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mp.graphic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java.5779.3064.4399" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mp.graphic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="unitTest" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -121,6 +180,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,9 +191,12 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561053311364" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561299552279" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RecursiveTest.focusTest2">
+  <component name="RunManager" selected="JUnit.RecursiveTest.CrazyTest">
     <configuration name="ProjectTest.ProjectTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="פרויקט" />
       <extension name="coverage">
@@ -158,22 +222,6 @@
       <option name="PACKAGE_NAME" value="unitTest" />
       <option name="MAIN_CLASS_NAME" value="unitTest.ProjectTest" />
       <option name="METHOD_NAME" value="ProjectTest1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProjectTest.ProjectTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="פרויקט" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unitTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="unitTest" />
-      <option name="MAIN_CLASS_NAME" value="unitTest.ProjectTest" />
-      <option name="METHOD_NAME" value="ProjectTest3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,6 +259,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecursiveTest.CrazyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="פרויקט" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unitTest" />
+      <option name="MAIN_CLASS_NAME" value="unitTest.RecursiveTest" />
+      <option name="METHOD_NAME" value="CrazyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RecursiveTest.focusTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="פרויקט" />
       <extension name="coverage">
@@ -229,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RecursiveTest.CrazyTest" />
+        <item itemvalue="JUnit.ProjectTest.ProjectTest1" />
         <item itemvalue="JUnit.RecursiveTest.focusTest2" />
         <item itemvalue="JUnit.ProjectTest.ProjectTest5" />
         <item itemvalue="JUnit.ProjectTest.ProjectTest4" />
-        <item itemvalue="JUnit.ProjectTest.ProjectTest1" />
-        <item itemvalue="JUnit.ProjectTest.ProjectTest3" />
       </list>
     </recent_temporary>
   </component>
@@ -253,22 +317,11 @@
       <workItem from="1561040628033" duration="69000" />
       <workItem from="1561040788655" duration="13000" />
       <workItem from="1561041483040" duration="10155000" />
+      <workItem from="1561288501783" duration="6378000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProjectTest_ProjectTest3 - 2019.06.20 at 19h 30m 10s.xml">
-      <configuration name="ProjectTest.ProjectTest3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProjectTest_ProjectTest3 - 2019.06.20 at 19h 30m 16s.xml">
-      <configuration name="ProjectTest.ProjectTest3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProjectTest_ProjectTest3 - 2019.06.20 at 19h 54m 35s.xml">
-      <configuration name="ProjectTest.ProjectTest3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProjectTest_ProjectTest5 - 2019.06.20 at 20h 04m 18s.xml">
-      <configuration name="ProjectTest.ProjectTest5" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProjectTest_ProjectTest1 - 2019.06.20 at 20h 30m 04s.xml">
       <configuration name="ProjectTest.ProjectTest1" configurationId="JUnit" />
     </history-entry>
@@ -287,9 +340,21 @@
     <history-entry file="RecursiveTest_focusTest2 - 2019.06.20 at 20h 54m 03s.xml">
       <configuration name="RecursiveTest.focusTest2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProjectTest_ProjectTest1 - 2019.06.23 at 15h 02m 10s.xml">
+      <configuration name="ProjectTest.ProjectTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProjectTest_ProjectTest1 - 2019.06.23 at 15h 05m 35s.xml">
+      <configuration name="ProjectTest.ProjectTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProjectTest_ProjectTest1 - 2019.06.23 at 15h 12m 43s.xml">
+      <configuration name="ProjectTest.ProjectTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecursiveTest_CrazyTest - 2019.06.23 at 15h 23m 00s.xml">
+      <configuration name="RecursiveTest.CrazyTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37414000" />
+    <option name="totallyTimeSpent" value="43792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,7 +368,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27125505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14493927" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,7 +377,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.312611" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.053285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.15275311" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,121 +403,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/ברוכים/raytracer_project-master/src/unitTest/VectorTests.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ברוכים/raytracer_project-master/src/unitTest/CameraTests.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ברוכים/raytracer_project-master/src/unitTest/LightingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="224" />
-          <folding>
-            <element signature="method#pointLightTestTSphere#0;class#LightingTest#0" />
-            <element signature="method#spotLightTestSphere#0;class#LightingTest#0" />
-            <element signature="method#pointLightTestTriangle#0;class#LightingTest#0" />
-            <element signature="method#spotLightTestTriangle#0;class#LightingTest#0" />
-            <element signature="method#pointLightTestTriangle2#0;class#LightingTest#0" />
-            <element signature="method#shaddowTest#0;class#LightingTest#0" />
-            <element signature="method#DirectionalLightTest#0;class#LightingTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Shaddow Test.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Shaddow Test2.jpg" />
-    <entry file="file://$USER_HOME$/Desktop/ברוכים/raytracer_project-master/src/unitTest/ImageWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ברוכים/raytracer_project-master/src/unitTest/RecursiveTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="443" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ברוכים/raytracer_project-master/src/unitTest/ProjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="258" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReflectedTest.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CrazyTest.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/focusTest.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/focusTest4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/פרויקט.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements/AmbientLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectTest3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements/DirectionalLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements/Light.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements/Camera.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements/LightSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements/SpotLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-599">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elements/PointLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-718">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/geometries/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1004">
@@ -555,13 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/renderer/Render.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5407">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/renderer/ImageWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-748">
@@ -630,16 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unitTest/ProjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2363">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding>
-            <element signature="method#ProjectTest3#0;class#ProjectTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/unitTest/Point3DTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -675,20 +608,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/Render.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267">
+          <caret line="312" column="17" lean-forward="true" selection-start-line="312" selection-start-column="17" selection-end-line="312" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spotLightTestSphere.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spotLightTestTriangle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shaddow Test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReflectedTest.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RooomTest.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pointLightTestTSphere.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pointLightTestTriangle2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pointLightTestTriangle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/focusTest5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DirectionalLightTest.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/focusTest.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/focusTest2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/focusTest3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/focusTest4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectTest2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrazyTest.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/unitTest/RecursiveTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="99" column="110" selection-start-line="99" selection-start-column="110" selection-end-line="99" selection-end-column="110" />
+        <state relative-caret-position="550">
+          <caret line="85" column="83" selection-start-line="85" selection-start-column="83" selection-end-line="85" selection-end-column="83" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#ReflectedLightTest#0;class#RecursiveTest#0" />
-            <element signature="method#CrazyTest#0;class#RecursiveTest#0" />
+            <element signature="method#focusTest2#0;class#RecursiveTest#0" />
             <element signature="method#focusTest#0;class#RecursiveTest#0" />
             <element signature="method#focusTest3#0;class#RecursiveTest#0" />
+            <element signature="method#focusTest4#0;class#RecursiveTest#0" />
             <element signature="method#focusTest6#0;class#RecursiveTest#0" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectTestpp.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectTestoo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectTest1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="162" column="43" selection-start-line="162" selection-start-column="43" selection-end-line="162" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unitTest/ProjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="method#ProjectTest1#0;class#ProjectTest#0" />
+            <element signature="method#RoomTest2#0;class#ProjectTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectTest3.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">

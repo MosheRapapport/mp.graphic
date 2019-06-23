@@ -120,7 +120,6 @@ public class Camera {
      */
     public List<Ray> constructRaysThroughPixel(int Nx, int Ny, int i, int j, double screenDistance, double width,
                                                double height) {
-
         List<Ray> rayList = new ArrayList<Ray>();
         Point3D Pij = p0.addVec(vTo.scalarMult(screenDistance));
         double Ry = height / Ny;
